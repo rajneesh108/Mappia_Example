@@ -1,0 +1,8 @@
+NAME,Nature,Type,Drain_Work,Responsibl,Source,Critical,Criteria,NDRRMC,fid,qc_id,vca,dc,icon_url
+Clemencia,"Flood, Chormony Lane",Flood,Awaiting Implementation,NDU,NDRRMC,"2",,"1",8,"7",,FLACQ,./0.png
+"Cite Hibiscus, Centre de Flacq","Flood, Eastern College Lane",Flood,Design Stage,NDU,NDRRMC,"1",,"1",8,"7",,FLACQ,./0.png
+Cite Argy,Flood at Pont Argy due to water lily accumulation,Flood,Work in Progress,NDU,NDRRMC,"1",New bridge no recent case,"1",8,"7",,FLACQ,./0.png
+Camp Poorun,Flood at Camp Poorun requiring evacuation,Flood,,DC?,NDRRMC,"2",LT,"1",8,"7",,FLACQ,./0.png
+Poste de Flacq (Allee Mangue),Flood at Cite Debarquadere,Flood,Consultancy in Progress,NDU,NDRRMC,"2",LT,"1",8,"7",,FLACQ,./0.png
+"Cite Debarcadere, Poste de Flacq",Flood,Flood,Consultancy in Progress,NDU,NDRRMC,"2","LT, low lying, 10 houses, relocation","1",8,"7",,FLACQ,./0.png
+BRAMSTHAN,,,,,,,,,8,"7",,FLACQ,./0.png
